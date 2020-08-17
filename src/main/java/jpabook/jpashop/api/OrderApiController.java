@@ -21,7 +21,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.*;
-import static sun.nio.cs.ext.SJIS_0213.mapping;
 
 @RequiredArgsConstructor
 @RestController
